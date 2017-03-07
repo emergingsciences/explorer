@@ -1,4 +1,7 @@
-# Explorer
+# Kundalini Explorer
+
+Kundalini Explorer is a visualization tool for Kundalini Experimental Project (KEP) data. The goal of the project is to make KEP data, findings, insights, and recommendations accessible to the general public.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
